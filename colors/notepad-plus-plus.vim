@@ -62,7 +62,7 @@ hi WarningMsg guifg=#A1A6A8 guibg=#912C00 guisp=#912C00 gui=NONE ctermfg=248 cte
 hi VisualNOS guifg=#192224 guibg=#778899 guisp=#778899 gui=underline ctermfg=235 ctermbg=189 cterm=underline
 hi DiffDelete guifg=NONE guibg=#192224 guisp=#192224 gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE
 hi ModeMsg guifg=#F9F9F9 guibg=#192224 guisp=#192224 gui=bold ctermfg=15 ctermbg=235 cterm=bold
-hi CursorColumn guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
+hi CursorColumn guifg=NONE guibg=#fefcf5 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#0000ff guibg=#fefcf5 guisp=#fefcf5 gui=bold ctermfg=21 ctermbg=230 cterm=bold
 hi Function guifg=#0000ff guibg=#fefcf5 guisp=#fefcf5 gui=bold ctermfg=21 ctermbg=230 cterm=bold
 hi FoldColumn guifg=#192224 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
