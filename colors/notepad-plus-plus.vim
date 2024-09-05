@@ -52,7 +52,7 @@ hi Comment guifg=#008000 guibg=#fefcf5 guisp=#fefcf5 gui=NONE ctermfg=2 ctermbg=
 hi Character guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Float guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Number guifg=#ff8000 guibg=#fefcf5 guisp=#fefcf5 gui=NONE ctermfg=208 ctermbg=230 cterm=NONE
-hi Boolean guifg=#A1A6A8 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
+hi Boolean guifg=#000000 guibg=NONE guisp=NONE gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi Operator guifg=#000080 guibg=#fefcf5 guisp=#fefcf5 gui=NONE ctermfg=18 ctermbg=230 cterm=NONE
 hi CursorLine guifg=NONE guibg=#222E30 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 "hi Union -- no settings --
