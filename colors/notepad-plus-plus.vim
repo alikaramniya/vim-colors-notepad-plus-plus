@@ -65,7 +65,7 @@ hi ModeMsg guifg=#F9F9F9 guibg=#192224 guisp=#192224 gui=bold ctermfg=15 ctermbg
 hi CursorColumn guifg=NONE guibg=#fefcf5 guisp=#222E30 gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#0000ff guibg=#fefcf5 guisp=#fefcf5 gui=bold ctermfg=21 ctermbg=230 cterm=bold
 hi Function guifg=#0000ff guibg=#fefcf5 guisp=#fefcf5 gui=bold ctermfg=21 ctermbg=230 cterm=bold
-hi FoldColumn guifg=#192224 guibg=#A1A6A8 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
+hi FoldColumn guifg=#192224 guibg=#fcfef5 guisp=#A1A6A8 gui=italic ctermfg=235 ctermbg=248 cterm=NONE
 hi PreProc guifg=#0000ff guibg=#fefcf5 guisp=#fefcf5 gui=bold ctermfg=21 ctermbg=230 cterm=bold
 "hi EnumerationName -- no settings --
 hi Visual guifg=#192224 guibg=#778899 guisp=#778899 gui=NONE ctermfg=235 ctermbg=189 cterm=NONE
